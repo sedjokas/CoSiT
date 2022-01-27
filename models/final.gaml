@@ -1,8 +1,8 @@
 /***
 * Name: model1
 * Author: Azem Henri
-* Description: 
-* Tags: Tag1, Tag2, TagN
+* Description: CoSiT 
+* Covid-19 
 ***/
 
 model magasin
