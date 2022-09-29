@@ -1,8 +1,8 @@
 /***
-* Name: model1
-* Author: Azem Henri
-* Description: CoSiT 
-* Covid-19 
+* Name: COSiT
+* Author: Azem Henri, F-A. Mbiaya, Selain Kasereka, Ho Tuong Vinh, 
+* Description: For the paper : CoSiT: An agent-based tool for training and awareness to
+fight the Covid-19 spread
 ***/
 
 model magasin
